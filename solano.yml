@@ -1,6 +1,7 @@
 # Automatically run PHPUnit tests in parallel using solano-phpunit test runner
 tests:
   - echo 0
+  - echo 1
 
 # http://docs.solanolabs.com/Setup/setup-hooks/
 hooks:
